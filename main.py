@@ -7,10 +7,11 @@ import ColoredImageEnh
 n=2
 m=2
 gamma=4
-img_name = 'island'
+img_name = 'cells'
+test_folder = 'test_images'
 
 def colored_enhancing():
-    img = cv2.imread(img_name + '.png')
+    img = cv2.imread(test_folder + '\\' + img_name + '.png')
     print(img.shape)
     imgEnh = ColoredImageEnh.ColoredImageEnh(img, n, m, gamma)
     final_image = imgEnh.imageEnhance()

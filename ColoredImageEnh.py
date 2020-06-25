@@ -1,6 +1,5 @@
 import numpy as np
 from scipy.interpolate import interp1d
-import math
 from utils import utils
 
 epsilon = 0.000001
