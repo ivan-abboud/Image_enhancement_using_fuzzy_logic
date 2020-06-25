@@ -10,7 +10,7 @@ This is an implementation of [Color Image Enhancement Using the Support Fuzzific
 
 
 ### Running code
-main.py contains all waht you need
+main.py contains all what you need
 
 assign the global variable n,m and gamma as you wish
 
