@@ -59,7 +59,3 @@ further tests can be seen in Results folder
 
 Damascus University
 Department of Artifcial Intelligence
-
-5th year students
-hope this could help you
-feel free to report any problem
